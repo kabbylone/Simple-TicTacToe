@@ -2,7 +2,7 @@
 
 A minimalistic and simple project of the traditional Tic Tac Toe game made using HTML, CSS and JavaScript ES6.
 
-![image](images\main.png)
+![Alt text](images\main.png)
 
 ## The Game
 
